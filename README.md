@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Eshbanoliver
-- 👀 I’m interested in ReactNative 
+- 👀 I’m interested in React Native 
 - 📫 How to reach me- eshbanofficial@gmail.com
 
 

@@ -44,4 +44,30 @@ Thank you for visiting my profile! I look forward to connecting with you 😊.
 Eshbanoliver/Eshbanoliver is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<img src="https://komarev.com/ghpvc/?username=Eshbanoliver&label=Profile%20views&color=0e75b6&style=flat" />
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=Eshbanoliver&show_icons=true&theme=radical" />
+<!---
+GitHub Stats Card
+--->
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eshbanoliver&layout=compact" />
+<!---
+Top Languages Card
+--->
+
+<img src="https://streak-stats.demolab.com/?user=Eshbanoliver" />
+<!---
+GitHub Streak
+--->  
+
+<img src="https://github-profile-trophy.vercel.app/?username=Eshbanoliver" />
+<!---
+Trophy Badges
+--->  
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,wordpress" />
+<!---
+Technology Icons
+--->  
+

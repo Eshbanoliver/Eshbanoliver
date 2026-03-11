@@ -119,27 +119,4 @@ eshbanofficial@gmail.com
 ⭐ **Thanks for visiting my GitHub profile!**
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=Eshbanoliver&show_icons=true&theme=radical" />
-<!---
-GitHub Stats Card
---->
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eshbanoliver&layout=compact" />
-<!---
-Top Languages Card
---->
-
-<img src="https://streak-stats.demolab.com/?user=Eshbanoliver" />
-<!---
-GitHub Streak
---->  
-
-<img src="https://github-profile-trophy.vercel.app/?username=Eshbanoliver" />
-<!---
-Trophy Badges
---->  
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,wordpress" />
-<!---
-Technology Icons
---->  

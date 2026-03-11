@@ -1,43 +1,44 @@
 <h1 align="center">Hi 👋, I'm Eshban Oliver</h1>
-<h3 align="center">Frontend Developer | Next.js Enthusiast | UI/UX Focused Web Developer</h3>
 
 <p align="center">
-Building modern, fast and user-friendly web experiences.
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Frontend+Developer;Next.js+Enthusiast;Angular+Developer;UI%2FUX+Focused+Web+Developer;Building+Modern+Web+Experiences" />
 </p>
+
+<h3 align="center">Frontend Developer | Next.js & Angular | UI/UX Focused Web Developer</h3>
 
 ---
 
 # 👨‍💻 About Me
 
-💻 Frontend Developer passionate about creating **modern, responsive websites and web applications**
+💻 I'm a **Frontend Developer** passionate about building modern, responsive and high-performance websites.
 
-🚀 Currently working on **Next.js projects and modern frontend development**
+🚀 Currently focused on **Next.js, Angular and modern frontend development**
 
-🎨 Interested in **UI/UX Design, Performance Optimization and Web Technologies**
+🎨 Interested in **UI/UX Design, Web Performance Optimization and Scalable Web Applications**
 
-📚 Always learning new technologies and improving my development skills
+📚 Always learning and exploring new technologies to improve development skills.
 
-🌐 Portfolio:  
+🌐 Portfolio  
 https://eshban.netlify.app/
 
-📧 Email:  
+📧 Email  
 eshbanofficial@gmail.com
 
 ---
 
 # 🚀 Tech Stack
 
-### Languages
+### 💻 Languages
 <p>
-<img src="https://skillicons.dev/icons?i=js,html,css,python" />
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,python" />
 </p>
 
-### Frameworks & Technologies
+### ⚡ Frameworks & Technologies
 <p>
-<img src="https://skillicons.dev/icons?i=nextjs,nodejs,wordpress" />
+<img src="https://skillicons.dev/icons?i=nextjs,angular,nodejs,bootstrap,wordpress" />
 </p>
 
-### Tools
+### 🛠 Tools
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
@@ -48,7 +49,7 @@ eshbanofficial@gmail.com
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Eshbanoliver&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=Eshbanoliver&show_icons=true&theme=tokyonight&hide_border=true" />
 
 </p>
 
@@ -58,7 +59,7 @@ eshbanofficial@gmail.com
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=Eshbanoliver&theme=tokyonight&border_radius=6" />
+<img src="https://streak-stats.demolab.com?user=Eshbanoliver&theme=tokyonight&hide_border=true" />
 
 </p>
 
@@ -68,7 +69,17 @@ eshbanofficial@gmail.com
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eshbanoliver&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eshbanoliver&layout=compact&theme=tokyonight&hide_border=true" />
+
+</p>
+
+---
+
+# 📊 GitHub Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Eshbanoliver&theme=tokyo-night&hide_border=true" />
 
 </p>
 
@@ -78,6 +89,7 @@ eshbanofficial@gmail.com
 
 📦 Website Development Projects  
 ⚡ Next.js Applications  
+🅰️ Angular Projects  
 🎨 Frontend UI Experiments  
 🌐 Business Website Implementations  
 🧪 Web Technology Experiments  
@@ -87,7 +99,7 @@ eshbanofficial@gmail.com
 # 🎯 Development Philosophy
 
 ✔ Clean Code  
-✔ Performance Focused Development  
+✔ Performance Optimized Development  
 ✔ Responsive UI Design  
 ✔ User-First Approach  
 ✔ Continuous Learning  
@@ -96,15 +108,11 @@ eshbanofficial@gmail.com
 
 # 🤝 Let's Connect
 
-<p>
-
-Portfolio 🌐  
+🌐 Portfolio  
 https://eshban.netlify.app/
 
-Email 📧  
+📧 Email  
 eshbanofficial@gmail.com
-
-</p>
 
 ---
 
@@ -116,7 +124,12 @@ eshbanofficial@gmail.com
 
 ---
 
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
 ⭐ **Thanks for visiting my GitHub profile!**
-
-
-

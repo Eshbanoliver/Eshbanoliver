@@ -1,49 +1,122 @@
-# Hi there, I'm Eshban Oliver 👋
+<h1 align="center">Hi 👋, I'm Eshban Oliver</h1>
+<h3 align="center">Frontend Developer | Next.js Enthusiast | UI/UX Focused Web Developer</h3>
 
-Welcome to my GitHub profile! I'm a passionate Front-end Developer 💻 with a keen interest in React Native 📱. I'm always eager to learn 🚀 and explore new technologies, and I'm excited to share my projects and contributions with you.
+<p align="center">
+Building modern, fast and user-friendly web experiences.
+</p>
 
-## About Me
+---
 
-* **Currently Working As:** Front-end Developer 👨‍💻
-* **Interests:** React Native ⚛️, JavaScript 📜, HTML 🏷️, CSS 🎨, Modern Web Development 🌐, UI/UX Design 🖌️.
-* **Learning Focus:** Deepening my React Native skills and exploring cross-platform mobile development 📱➡️🖥️.
-* **Philosophy:** I believe in writing clean, maintainable code 🧼 and creating user-friendly interfaces 😊.
-* **Goal:** To build innovative 💡 and impactful applications 🚀 that solve real-world problems 🌍.
+# 👨‍💻 About Me
 
-## What You'll Find Here
+💻 Frontend Developer passionate about creating **modern, responsive websites and web applications**
 
-* **React Native Projects:** Expect to see projects demonstrating my growing expertise in React Native ⚛️📱.
-* **Front-end Experiments:** Explorations of modern web technologies 🌐 and UI/UX concepts 🎨.
-* **Contributions:** Potential contributions to open-source projects 🤝.
-* **Learning Journey:** Documentation of my progress 📈 and insights as I learn React Native 📚.
+🚀 Currently working on **Next.js projects and modern frontend development**
 
-## Technologies I Work With
+🎨 Interested in **UI/UX Design, Performance Optimization and Web Technologies**
 
-* **Languages:** JavaScript 📜, HTML 🏷️, CSS 🎨
-* **Tools:** GitHub 🌳, VS Code 💻
+📚 Always learning new technologies and improving my development skills
 
-## Let's Connect!
+🌐 Portfolio:  
+https://eshban.netlify.app/
 
-I'm always open to connecting with fellow developers 🤝 and enthusiasts 🎉. Feel free to reach out!
+📧 Email:  
+eshbanofficial@gmail.com
 
-* **Email:** eshbanofficial@gmail.com 📧
-* **Portfolio:** https://eshban.netlify.app/ 🌐
+---
 
-## Contributions and Collaboration
+# 🚀 Tech Stack
 
-I'm interested in collaborating on exciting projects 🤝 related to React Native ⚛️📱 and front-end development 💻. If you have any opportunities or ideas, please don't hesitate to contact me.
+### Languages
+<p>
+<img src="https://skillicons.dev/icons?i=js,html,css,python" />
+</p>
 
-## Future Plans
+### Frameworks & Technologies
+<p>
+<img src="https://skillicons.dev/icons?i=nextjs,nodejs,wordpress" />
+</p>
 
-* Continue to expand my knowledge of React Native 🚀 and build more complex applications 🏗️.
-* Contribute to open-source projects 📦.
-* Explore advanced topics in mobile development 📱 and UI/UX 🎨.
+### Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
-Thank you for visiting my profile! I look forward to connecting with you 😊.
-<!---
-Eshbanoliver/Eshbanoliver is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Eshbanoliver&show_icons=true&theme=tokyonight" />
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Eshbanoliver&theme=tokyonight&border_radius=6" />
+
+</p>
+
+---
+
+# 📈 Most Used Languages
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eshbanoliver&layout=compact&theme=tokyonight" />
+
+</p>
+
+---
+
+# 🚀 What You'll Find On My GitHub
+
+📦 Website Development Projects  
+⚡ Next.js Applications  
+🎨 Frontend UI Experiments  
+🌐 Business Website Implementations  
+🧪 Web Technology Experiments  
+
+---
+
+# 🎯 Development Philosophy
+
+✔ Clean Code  
+✔ Performance Focused Development  
+✔ Responsive UI Design  
+✔ User-First Approach  
+✔ Continuous Learning  
+
+---
+
+# 🤝 Let's Connect
+
+<p>
+
+Portfolio 🌐  
+https://eshban.netlify.app/
+
+Email 📧  
+eshbanofficial@gmail.com
+
+</p>
+
+---
+
+# 👀 Profile Visitors
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Eshbanoliver&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+⭐ **Thanks for visiting my GitHub profile!**
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=Eshbanoliver&show_icons=true&theme=radical" />
@@ -70,4 +143,3 @@ Trophy Badges
 <!---
 Technology Icons
 --->  
-
